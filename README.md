@@ -1,36 +1,81 @@
-<h1 align="center"> Projeto Alura Fokus</h1>
+# 🍅 Fokus Pomodoro — Productivity Timer
 
+## 📊 Visão Geral
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-<br>
+O **Fokus Pomodoro** é um projeto de timer baseado na técnica Pomodoro, desenvolvido com foco em **produtividade, organização de tarefas e experiência de usuário (UX)**.
 
-## 🚀 Tecnologias
+O objetivo do projeto é ajudar o usuário a manter o foco em atividades por meio de ciclos de trabalho e pausa, utilizando uma interface simples, funcional e intuitiva.
 
-Esse projeto está sendo desenvolvido com as seguintes tecnologias:
+---
 
-<li> HTML
-<li> CSS
-<li> JavaScript
-<li> GitHub
+## 🎯 Objetivo do Projeto
 
-## 💻 Projeto
+- Aplicar a técnica Pomodoro para gestão de tempo
+- Criar uma interface leve e intuitiva para foco
+- Desenvolver lógica de temporizador em JavaScript
+- Explorar manipulação de DOM e eventos
+- Simular uma ferramenta real de produtividade
 
-Este projeto se chama "Alura Fokus".<br>
+---
 
-Feito para auxiliar na hora de manter o foco nos estudos, utilizando a metodologia pomodoro. <br>
-Podem ser utilizadas pausas curtas ou longas, com ou sem música de fundo para concentração. <br>
-Também possui sons de ativação para identificar cada opção selecionada.
+## 🧠 Problema Resolvido
 
+Muitas pessoas enfrentam dificuldades como:
 
-## 🔖 Layout
+- Falta de foco em tarefas longas
+- Procrastinação durante o trabalho ou estudo
+- Dificuldade em gerenciar tempo de forma eficiente
 
-🖼️ Este projeto foi desenvolvido por ALURA.<br>
+O Fokus Pomodoro resolve isso ao criar ciclos estruturados de trabalho e descanso.
 
+---
 
-Feito ❤️‍ por Douglas Lourencoo 😁
+## ⚙️ Como Funciona
 
-<p> Até a próxima! 😁🖖.
+O sistema segue a técnica Pomodoro:
+
+- 🕒 25 minutos de foco (trabalho)
+- ☕ 5 minutos de pausa curta
+- 🔁 Ciclos repetidos para manter produtividade
+- 🔔 Notificação visual ao final de cada ciclo
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- Manipulação de DOM  
+- Eventos e timers (setInterval / setTimeout)
+
+---
+
+## 🧩 Funcionalidades
+
+- Timer regressivo dinâmico
+- Alternância entre foco e pausa
+- Controle de início e pausa da contagem
+- Interface responsiva e simples
+- Atualização em tempo real da UI
+
+---
+
+## 🧠 Conceitos Aplicados
+
+- Manipulação do DOM
+- Funções assíncronas (timers)
+- State machine simples (foco / pausa)
+- Eventos de interface (click, start, pause)
+- Lógica de controle de fluxo
+
+---
+
+## 📸 Preview do Projeto
+
+> Adicione aqui prints do projeto rodando
+
+```md
+![Tela inicial](./images/home.png)
+![Modo foco](./images/focus.png)
+![Pausa](./images/break.png)
