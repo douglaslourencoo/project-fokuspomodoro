@@ -72,10 +72,3 @@ O sistema segue a técnica Pomodoro:
 ---
 
 ## 📸 Preview do Projeto
-
-> Adicione aqui prints do projeto rodando
-
-```md
-![Tela inicial](./images/home.png)
-![Modo foco](./images/focus.png)
-![Pausa](./images/break.png)
